@@ -37,3 +37,8 @@ The included questions and answers are:
 
 No specific frameworks or package managers are required. You just need a modern web browser.
 
+### Installation
+
+1.  Clone the repository:
+    ```sh
+    git clone 
