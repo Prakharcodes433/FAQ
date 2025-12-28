@@ -6,10 +6,7 @@ A collection of answers to common questions about science, technology, and natur
 * [About The Project](#about-the-project)
 * [Features](#features)
 * [Getting Started](#getting-started)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+
 
 ## About The Project
 
