@@ -34,3 +34,6 @@ The included questions and answers are:
   To get a local copy up and running, follow these simple steps. This project requires basic web technologies (HTML, CSS, JavaScript).
 
 ### Prerequisites
+
+No specific frameworks or package managers are required. You just need a modern web browser.
+
