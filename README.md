@@ -25,3 +25,6 @@ The included questions and answers are:
 
   ## Features
 
+*   **Responsive Design:** Optimized for various screen sizes.
+*   **Interactive UI:** Collapsible question sections for a clean layout.
+*   **Informative Content:** Provides factual, easy-to-understand explanations for general knowledge questions.
