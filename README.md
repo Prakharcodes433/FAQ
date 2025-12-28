@@ -12,3 +12,5 @@ A collection of answers to common questions about science, technology, and natur
 * [Contact](#contact)
 
 ## About The Project
+
+This project was built to provide clear and concise answers to a range of frequently asked questions using a simple, collapsible UI design (as shown in the provided image). The goal is to create an easily digestible knowledge base for users seeking quick information on topics such as Rayleigh scattering, photosynthesis, and network security.
